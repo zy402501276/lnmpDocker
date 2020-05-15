@@ -1,2 +1,4 @@
 基础lnmp环境 v1
 已具备功能:php+nginx+mysql
+注：1、在当前文件夹建立html文件夹
+   2、在mysql文件夹建立data文件夹
